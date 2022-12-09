@@ -7,4 +7,4 @@ class Solution:
         return memo[n]
 
 if __name__ == "__main__":
-    print(Solution().climbStairs(777))
+    print(Solution().climbStairs())
